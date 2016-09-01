@@ -1,0 +1,2 @@
+# PalletBlueprint
+Generator for Pallet
